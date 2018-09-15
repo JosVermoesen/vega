@@ -1,0 +1,14 @@
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\bin\BPC\Debug\netcoreapp2.1\Vega.Api.deps.json
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\bin\BPC\Debug\netcoreapp2.1\Vega.Api.runtimeconfig.json
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\bin\BPC\Debug\netcoreapp2.1\Vega.Api.runtimeconfig.dev.json
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\bin\BPC\Debug\netcoreapp2.1\Vega.Api.dll
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\bin\BPC\Debug\netcoreapp2.1\Vega.Api.pdb
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.csprojAssemblyReference.cache
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.csproj.CoreCompileInputs.cache
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.RazorAssemblyInfo.cache
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.RazorAssemblyInfo.cs
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.AssemblyInfoInputs.cache
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.AssemblyInfo.cs
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.dll
+C:\Users\Jos\Documents\Vsoft\vega\vega.api\obj\BPC\Debug\netcoreapp2.1\Vega.Api.pdb
